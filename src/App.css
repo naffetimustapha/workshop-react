@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color: chartreuse;
+  font-style: italic;
+  font-size: xx-large;
+  margin-bottom: 5%;
+}
+.cards{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2% 9% 2% 9%;
+padding-top: 20%;
+}
+
+
+
